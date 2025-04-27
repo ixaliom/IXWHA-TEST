@@ -4,7 +4,7 @@ let currentTab = 'all';
 let currentManhwaId = null;
 let chapterInputBuffer = '';
 let chapterInputTimeout = null;
-const APP_VERSION = '1.4.0';
+const APP_VERSION = '1.5.1';
 
 // Chargement initial
 document.addEventListener('DOMContentLoaded', () => {
